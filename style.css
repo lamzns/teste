@@ -1,0 +1,50 @@
+p {
+    text-align;
+    center;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(26, 4, 4);
+}
+
+body {
+    background-color: rgba(255, 0, 115, 0.264);
+}
+
+#logo {
+    width: 300px;
+    margin: 0;
+    padding: 15;
+}
+
+ul {
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+ol {
+    text-align: inherit;
+    color: rgb(0, 0, 0);
+}
+
+.cabecalho {
+    background-color: rgba(255, 0, 98, 0.574);
+    margin: 0;
+    padding: 2%;
+    border-bottom: 2px, rgb(225, 81, 141);
+}
+
+.conteudo {
+    background-color: rgb(193, 26, 93);
+    margin: 0;
+    padding: 5%;
+}
+
+.rodape {
+    background-color: rgb(255, 104, 144);
+    margin: 0;
+    padding: 5%;
+}
